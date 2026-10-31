@@ -39,4 +39,4 @@ Models made in Blender for fun:
 ## 📫 Contact
 
 - GitHub: [@Lavina29](https://github.com/Lavina29)
-- Email: _[anastasiia.shestopal29@gmail.com]_
+- Email: [anastasiia.shestopal29@gmail.com]
